@@ -114,15 +114,15 @@ button:hover {
     height: 50%;
   }
 .content{
-   padding: 5px 10px 15px;
+   padding: 10px 0px  10px 0px;
 }
   .content h1 {
-    font-size: 1rem;
+    font-size: 12px;
     margin-bottom: 10px;
   }
 
   .content p {
-    font-size: 0.7rem;
+    font-size: 11px;
     margin-bottom: 10px;
   }
 
